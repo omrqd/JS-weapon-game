@@ -6,3 +6,6 @@ It provides an overview of how to work with the HTML canvas, generate infinite e
 ## Screenshots
 
 <img width="1165" alt="Screenshot 2024-11-09 at 11 54 30 PM" src="https://github.com/user-attachments/assets/4d2c0aad-7a86-47ac-ba0f-d8ada328ff53">
+
+## Preview
+<a href="https://js-weapon-game.vercel.app" onclick="_blank">Demo</a>
